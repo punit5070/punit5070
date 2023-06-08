@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @punit5070
 - 👀 I’m interested in data science projects 
-- 🌱 I’m currently learning m.tech
+- 🌱 I have completed M.Tech CSE (AI,ML)
 - 💞️ I’m looking to collaborate on new real life problems solving using ML,AI
 - 📫 How to reach me mail us: punityadav9151@gmail.com
 
